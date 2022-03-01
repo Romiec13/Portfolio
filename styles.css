@@ -6,7 +6,7 @@
   
   body {
     margin: 60px auto;
-    line-height: 5;
+   
   }
   
   h1,
@@ -106,6 +106,7 @@
     padding: 20px 15px;
     text-decoration: none;
     text-transform: capitalize;
+    line-height: 5;
 
   }
   
@@ -114,4 +115,6 @@
     flex-direction: row;
   }
   
-  
+  row {
+      line-height: 5;
+  }
